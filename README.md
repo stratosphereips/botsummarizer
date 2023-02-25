@@ -1,2 +1,3 @@
-# repository-template
-This repository is a template with basic elements that every repository at Stratosphere should follow.
+# BotSummarizer
+
+A tool to detect botnet Command and control channels using a model.
